@@ -27,7 +27,7 @@ display_welcome() {
   echo -e "${BLUE}[+]             AUTO INSTALLER PTERODACTYL          [+]${NC}"
   echo -e "${BLUE}[+]                  © BY KAYZEN                    [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
-  echo -e "${RED}[+] ===============================================  [+]${NC}"
+  echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
   echo -e "script ini di buat untuk mempermudah penginstalasian pterodactyle,"
   echo -e "dilarang keras untuk memperjual belikan."
