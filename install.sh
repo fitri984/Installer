@@ -72,7 +72,7 @@ check_token() {
   echo -e "                                                       "
   echo -e "${YELLOW}BUY TOKEN DULU SANA SAMA KAYZEN${NC}"
   echo -e "${YELLOW}WHATSAPP :${NC}"
-  echo -e "${YELLOW}0858-1001-8405${NC}"
+  echo -e "${YELLOW}0858-1001-84053${NC}"
   read -r USER_TOKEN
 
   if [ "$USER_TOKEN" = "kayzen" ]; then
