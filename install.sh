@@ -25,7 +25,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]             AUTO INSTALLER PTERODACTYL          [+]${NC}"
-  echo -e "${BLUE}[+]                  © BY KAYZEN                   [+]${NC}"
+  echo -e "${BLUE}[+]                  © BY KAYZEN                    [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] ===============================================  [+]${NC}"
   echo -e ""
@@ -87,7 +87,7 @@ check_token() {
 create_node() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]                    CRRATE NODE                 [+]${NC}"
+  echo -e "${BLUE}[+]                    CRRATE NODE                  [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   #!/bin/bash
