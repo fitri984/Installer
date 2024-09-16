@@ -70,12 +70,13 @@ check_token() {
   echo -e "${BLUE}[+]               LICENSY KAYZEN                    [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  echo -e "${YELLOW}BUY TOKEN DULU SANA SAMA KAYZEN${NC}"
-  echo -e "${YELLOW}WHATSAPP :${NC}"
-  echo -e "${YELLOW}0858-1001-84053${NC}"
+  echo -e "${RED}BUY TOKEN DULU SANA SAMA KAYZEN${NC}"
+  echo -e "${BLUE}WHATSAPP : ⬇️${NC}"
+  echo -e "${GREEN}0858-1001-84053${NC}"
+  echo -e "${YELLOW}MASUKAN TOKEN BOSKU${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "kayzen" ]; then
+  if [ "$USER_TOKEN" = "kayzeninstaller" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN} AKSES DI TOLAK${NC}"
