@@ -12,6 +12,7 @@
 
 # Membuat lokasi baru
 bash <(curl -s https://pterodactyl-installer.se) <<EOF
+6
 y
 y
 y
